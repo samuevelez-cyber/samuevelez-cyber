@@ -2,7 +2,7 @@
 
 **I build the AI systems that run Amazon ad operations.**
 
-7+ years in Amazon advertising. Currently managing a five-brand portfolio — roughly $300K/month in ad spend, ~$1.4M/month in revenue — on top of an agentic automation suite I designed and maintain.
+7+ years in Amazon advertising. Currently at **Emplicit**, managing a five-brand portfolio — roughly $300K/month in ad spend, ~$1.4M/month in revenue — on top of an agentic automation suite I designed and maintain.
 
 Most people in performance marketing use AI as a chatbot. I build the systems that run the operation.
 
@@ -27,7 +27,7 @@ Every recommendation arrives with its evidence attached, which makes review fast
 
 ---
 
-**A quantitative decision framework** · adopted as an agency-wide optimization standard
+**A quantitative decision framework** · adopted as Emplicit's optimization standard
 
 Ask three PPC managers what to do with a keyword at 62% ACoS against a 30% target and you'll get three defensible answers. That inconsistency is invisible day to day and expensive over a quarter.
 
